@@ -22,7 +22,8 @@ Summary
 > Since 2013, my focus has been on developing native iOS applications. My objective is to build mobile apps with the user at the forefront, ensuring a seamless and user-friendly interface. Recognizing the significance of producing code that is both highly readable and easily maintainable, I constantly strive to learn new technologies and look for ways to advance myself in this dynamic industry.
 
 
-####Tech Stack
+#### Tech Stack
+
 SwiftUI, UIKit, ARKit, AVFoundation, BackgroundTasks, CoreBluetooth, CoreLocation, MapKit, Network, UserNotifications, WebKit, Alamofire, AWSS3, DataCache, IQKeyboardManager, Kingfisher, SVProgressHUD, NotificationCenter, GoogleMaps, GooglePlaces, Stripe, MVC, MVVM, VIPOR.
 
 
