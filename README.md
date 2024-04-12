@@ -116,9 +116,9 @@ The following are the main modules in the application: Items Management, Clients
 
 * **Historical Sounds Play Free :** [https://itunes.apple.com/pk/app/historical-sounds-play-free/id725538920?mt=8](https://itunes.apple.com/pk/app/historical-sounds-play-free/id725538920?mt=8)
 
+<!--<br>
 <br>
-<br>
-<br>
+<br>-->
 
 #### **Education**
 
