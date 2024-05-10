@@ -24,7 +24,7 @@ SwiftUI, UIKit, ARKit, AVFoundation, BackgroundTasks, CoreBluetooth, CoreLocatio
 -->
 
 #### **Work Experience / Career History**
-#### [Principal Software Engineer at Conovo Technologies](https://www.google.com/search?client=safari&rls=en&q=conovo+technologies&ie=UTF-8&oe=UTF-8) : Feb 2020 –  Mar 2014
+#### [Principal Software Engineer at Conovo Technologies](https://www.google.com/search?client=safari&rls=en&q=conovo+technologies&ie=UTF-8&oe=UTF-8) : Feb 2020 –  Mar 2024
 
 * **AuditApp :** [https://apps.apple.com/gb/app/audit-app/id1565000584](https://apps.apple.com/gb/app/audit-app/id1565000584)
 
